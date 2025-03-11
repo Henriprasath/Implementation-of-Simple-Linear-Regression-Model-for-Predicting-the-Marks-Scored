@@ -25,8 +25,8 @@ To write a program to predict the marks scored by a student using the simple lin
 ```
 /*
 Program to implement the simple linear regression model for predicting the marks scored.
-Developed by: 
-RegisterNumber:  
+Developed by: HENRIPRASATH S
+RegisterNumber:  212223230077
 */
 ```
 ```
@@ -83,33 +83,48 @@ plt.show()
 
 ## Output:
 
+HEAD VALUES
 
- HEAD VALUES
 ![Screenshot 2025-03-10 162345](https://github.com/user-attachments/assets/348de10d-d8ce-4e95-968d-f0979153290d)
- TAIL VALUES
- 
+
+
+TAIL VALUES
 
 ![Screenshot 2025-03-10 162353](https://github.com/user-attachments/assets/08418405-7389-46fb-9442-c918b4fe2372)
+
+
 HOURS VALUES
 
 ![Screenshot 2025-03-10 162400](https://github.com/user-attachments/assets/77fc763d-cb6f-48d8-8b41-7b87c8973f62)
+
+
 SCORES VALUES
 
 ![Screenshot 2025-03-10 162407](https://github.com/user-attachments/assets/aec0fd18-8704-47e2-aa09-beb047bf297b)
+
+
 Y_PREDICTION
 
 ![Screenshot 2025-03-10 162415](https://github.com/user-attachments/assets/84f6bf97-a6cf-41cf-b0ad-b8caf50e4d25)
- Y_TEST
+
+
+Y_TEST
 
 ![Screenshot 2025-03-10 162421](https://github.com/user-attachments/assets/274e8f0d-663a-420e-81ab-4b35dd9e6368)
+
+
 RESULT OF MSE,MAE,RMSE
 
 ![Screenshot 2025-03-10 162427](https://github.com/user-attachments/assets/22227a84-e191-464a-9451-f652fc423459)
+
+
 TRAINING SET
 
 ![Screenshot 2025-03-10 162437](https://github.com/user-attachments/assets/4a310545-5b64-4665-9fee-9fcf7784dff7)
 
+
 TEST SET
+
 ![Screenshot 2025-03-10 162447](https://github.com/user-attachments/assets/9df15eb3-2083-4b1a-833e-61b6fa733463)
 
 
